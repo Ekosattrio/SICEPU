@@ -1,2 +1,0 @@
-# SICEPU
-Website Pengaduan Mahasiswa
